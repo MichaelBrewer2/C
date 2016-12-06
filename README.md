@@ -1,3 +1,2 @@
 # C
-Programs written in C
-** Check sub-branches to see projects
+Check sub-branches to see projects
